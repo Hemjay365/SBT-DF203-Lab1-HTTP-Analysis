@@ -1,0 +1,4 @@
+SBT-DF203 Lab 1 -- Capture Integrity Hashes
+SHA-256 (evidence/basic.pcapng):        86eff9d8f52a645a21fc31b30b0a14bcd881dfcdc1410b4aa922eb54c7f70c5f
+SHA-256 (working/basic_working.pcapng): 86eff9d8f52a645a21fc31b30b0a14bcd881dfcdc1410b4aa922eb54c7f70c5f
+Result: MATCH -- working copy is byte-identical to original capture

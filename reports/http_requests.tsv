@@ -1,0 +1,2 @@
+frame	time	ip.src	tcp.srcport	ip.dst	tcp.dstport	method	uri	host	user_agent
+4	2026-09-08T17:34:03.209720-0400	127.0.0.1	45348	127.0.0.1	80	GET	/basic.html	127.0.0.1	curl/8.21.0
